@@ -52,3 +52,6 @@ This helped me connect:
 Control theory : Frequency domain : Time domain : Practical loop behavior
 And honestly, that connection felt more valuable than just running simulations.
 Always open to feedback or deeper discussions on PLL design and control systems.
+
+<img width="1919" height="1001" alt="Screenshot 2026-02-17 025609" src="https://github.com/user-attachments/assets/20313fac-a607-4802-b9ae-49be935cfa75" />
+
