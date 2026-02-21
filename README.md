@@ -54,6 +54,7 @@ And honestly, that connection felt more valuable than just running simulations.
 Always open to feedback or deeper discussions on PLL design and control systems.
 
 Time Responses
+
 <img width="583" height="331" alt="Screenshot 2026-02-17 025518" src="https://github.com/user-attachments/assets/037cf4ad-f31c-4e9b-8ca1-dfc931c85210" />
 
 PLL Step Response
