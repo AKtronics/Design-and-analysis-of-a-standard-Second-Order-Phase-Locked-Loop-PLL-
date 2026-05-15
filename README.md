@@ -7,6 +7,7 @@ Instead of using SISO Tool or Simulink blocks, I wanted to build and analyze eve
 No drag n drop, just equations, compensation, and system dynamics.
 What started as a small exploration turned into a pretty insightful study of how PLLs actually behave. This is a preliminary based observation and demanded reliability on academic resources.
 
+
 <img width="800" height="315" alt="image" src="https://github.com/user-attachments/assets/15dbecb6-fa78-49f3-b2bb-8cb6b938cfc6" />
 
 
@@ -60,20 +61,26 @@ Time Responses
 
 <img width="583" height="331" alt="Screenshot 2026-02-17 025518" src="https://github.com/user-attachments/assets/037cf4ad-f31c-4e9b-8ca1-dfc931c85210" />
 
+
 PLL Step Response
 <img width="1919" height="1018" alt="Screenshot 2026-02-17 025526" src="https://github.com/user-attachments/assets/1393bff1-6f87-43e5-8f75-ea5aeda64744" />
+
 
 PLL Root Locus
 <img width="1919" height="1016" alt="Screenshot 2026-02-17 025534" src="https://github.com/user-attachments/assets/ad0dc5b0-4989-4a7e-99df-98d22685d54e" />
 
+
 PLL Bode Plot
 <img width="1919" height="1015" alt="Screenshot 2026-02-17 025545" src="https://github.com/user-attachments/assets/f520b002-ec30-4fb2-9696-5f7bec1299f8" />
+
 
 Bandwidth Analysis
 <img width="1919" height="1011" alt="Screenshot 2026-02-17 025553" src="https://github.com/user-attachments/assets/7e7ecaed-551f-4453-b31d-b5fbd9ff60b4" />
 
+
 Noise Analysis
 <img width="1919" height="1005" alt="Screenshot 2026-02-17 025559" src="https://github.com/user-attachments/assets/623f2bcb-4cbd-481a-9270-abc190c24420" />
+
 
 PLL Noise Response
 <img width="1919" height="1001" alt="Screenshot 2026-02-17 025609" src="https://github.com/user-attachments/assets/20313fac-a607-4802-b9ae-49be935cfa75" />
