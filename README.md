@@ -7,6 +7,9 @@ Instead of using SISO Tool or Simulink blocks, I wanted to build and analyze eve
 No drag n drop, just equations, compensation, and system dynamics.
 What started as a small exploration turned into a pretty insightful study of how PLLs actually behave. This is a preliminary based observation and demanded reliability on academic resources.
 
+<img width="800" height="315" alt="image" src="https://github.com/user-attachments/assets/15dbecb6-fa78-49f3-b2bb-8cb6b938cfc6" />
+
+
 ⚙️ Step 1: Modeling the Physical Structure
 I modeled the PLL using:
 Phase Detector (adder + gain block)
